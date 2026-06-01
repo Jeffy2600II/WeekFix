@@ -1,9 +1,0 @@
-{
-  "name": "WeekFix - Family Budget Planner",
-  "short_name": "WeekFix",
-  "description": "แอปคำนวณและวางแผนรายจ่ายรายสัปดาห์สำหรับครอบครัว",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#f8fafc",
-  "theme_color": "#4f46e5"
-}
